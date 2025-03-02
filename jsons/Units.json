@@ -10,7 +10,7 @@
                     "Can build [Camp] improvements on tiles",
                     "Can build [Pasture] improvements on tiles",
                     "Can build [Plantation] improvements on tiles",
-                    "[+50]% tile improvement construction time",
+                    "[+50]% construction time for [All] improvements",
                     "Can instantly construct a [Penguin Hatchery] improvement <by consuming this unit>"],
 		"hurryCostModifier": 150,
 		"cost": 150,
