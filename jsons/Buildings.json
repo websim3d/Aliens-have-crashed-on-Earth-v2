@@ -9,7 +9,7 @@
 		"science": 12,
 		"maintenance": 96,
 		"isNationalWonder": true,
-        "uniques": [Only available <if [Colosseum] is constructed in all [non-[Puppeted]] cities>"],
+        "uniques": ["Only available <if [Colosseum] is constructed in all [non-[Puppeted]] cities>"],
 		"requiredTech": "Horseback Riding",
         "civilopediaText":[{"text":"While extremely entertaining and stimulating, the Holodeck's energy consumption is at a premium. Still, this is the only major component the Aliens bothered to retreive from their crashed spaceship and jury-rig to some functionality."}]
 	},
