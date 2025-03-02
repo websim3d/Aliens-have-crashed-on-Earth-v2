@@ -1,0 +1,3 @@
+Aliens have crashed on Earth: (Unit) Alien Worker's unique "[+50]% tile improvement construction time" is deprecated as of 4.9.0, replace with "[+50]% construction time for [All] improvements"
+Aliens have crashed on Earth: (Wonder) Holodeck's unique "Requires a [Colosseum] in all cities" is deprecated as of 4.10.17, replace with "Only available <if [Colosseum] is constructed in all [non-[Puppeted]] cities>"
+(Nation) Aliens's civilopediaText line 1: unknown color "822"
